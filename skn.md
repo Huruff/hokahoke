@@ -61,6 +61,8 @@ Clash Lane
 
 # Animation -> pay animator P(studio)
 
+https://docs.google.com/document/d/1if654wSEC3t_xMp6Lm2oFFrBGyDZ8mrmpJh7H1f2P3E/edit?usp=sharing
+
 |Hero|Skin|Tag| How to Get |
 |:---:|:---:|:---:|:---:|
 |SunBin | SoaringTiger | TIGER | ga |
