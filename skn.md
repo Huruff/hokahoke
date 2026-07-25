@@ -68,6 +68,9 @@ https://docs.google.com/document/d/1if654wSEC3t_xMp6Lm2oFFrBGyDZ8mrmpJh7H1f2P3E/
 |SunBin | SoaringTiger | TIGER | ga |
 
 # Sold in Limited time 
+
+https://docs.google.com/spreadsheets/d/1TLUuLqRv7nuO7Be3ttfAVrx3Q8MzIsmJ5Jpm6G5DNAk/edit?usp=sharing
+
 |Hero|Skin|Tag| How to Get |
 |:---:|:---:|:---:|:---:|
 |SunBin | SoaringTiger | TIGER | ga |
