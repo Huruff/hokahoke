@@ -17,6 +17,7 @@ Roam
 | Yaria | Cinnamoroll's Dream | Cinnamoroll && Precious | 498 Redemption Coins - Precious Wish |
 | Zhang Fei | Eren | Attack on Titan && PRECIOUS | 498 Redemption Coins - Precious Wish |
 
+pbkk https://docs.google.com/spreadsheets/d/1-4JXJPljPrES-q4hpC7UP2Wv2uiTZkbnR3wJ6wfRDhI/edit?gid=2122720707#gid=2122720707
 
 Jungling
 |Hero|Skin|Tag| How to Get |
